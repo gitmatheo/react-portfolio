@@ -2,6 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import ButtonLink from "../ButtonLink";
 import ProjectsContext from "../projects/ProjectsContext";
+import CVpl from "../../assets/NoweCV-final.pdf";
+import CVen from "../../assets/NewCV-final.pdf";
 
 const StyledFooter = styled.section`
   background: #16222a;
@@ -100,13 +102,13 @@ const Footer = () => {
                 </li>
                 <li>
                   <ButtonLink
-                    href="./assets/NoweCV-final.pdf"
+                    href={CVpl}
                     className="footer__cv header__btn btn btn--white btn--animated"
                   >
                     CV PL
                   </ButtonLink>
                   <ButtonLink
-                    href="./assets/NewCV-final.pdf"
+                    href={CVen}
                     className="footer__cv header__btn btn btn--white btn--animated"
                   >
                     CV EN
