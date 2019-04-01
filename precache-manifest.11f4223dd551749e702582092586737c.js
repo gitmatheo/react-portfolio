@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/natours.9b830086.png"
   },
   {
-    "revision": "0be13cbc94a4face094b",
+    "revision": "c864bc4f442e8d87ef66",
     "url": "/react-portfolio/static/css/main.a294cf78.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/logo-white-small.9ddb9757.svg"
   },
   {
-    "revision": "0be13cbc94a4face094b",
-    "url": "/react-portfolio/static/js/main.ad8fbe53.chunk.js"
+    "revision": "c864bc4f442e8d87ef66",
+    "url": "/react-portfolio/static/js/main.decd3cf5.chunk.js"
   },
   {
     "revision": "c40b0ee82684dce3fd1a6227fd93a745",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/face.0f97c82a.jpg"
   },
   {
-    "revision": "6bc2ac8c64afb691e289f5a6c1a684d6",
+    "revision": "53c1452a0a315a27e23ae3911f35df51",
     "url": "/react-portfolio/index.html"
   }
 ];
