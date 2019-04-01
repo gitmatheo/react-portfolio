@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "1cba6890da728603c3c317dd6ce8f4e0",
-    "url": "/react-portfolio/static/media/nexter.1cba6890.png"
+    "revision": "9b830086bf7660ce1c47174267b4c3be",
+    "url": "/react-portfolio/static/media/natours.9b830086.png"
   },
   {
-    "revision": "558f3dd6f9617e8ecb46",
-    "url": "/react-portfolio/static/css/main.b92565fe.chunk.css"
+    "revision": "0be13cbc94a4face094b",
+    "url": "/react-portfolio/static/css/main.a294cf78.chunk.css"
   },
   {
     "revision": "94872cf7e81768d148a3",
     "url": "/react-portfolio/static/js/runtime~main.f974a8eb.js"
   },
   {
-    "revision": "9a49e4bea26d45aa36ec",
-    "url": "/react-portfolio/static/js/2.885832b7.chunk.js"
+    "revision": "4787b0dcfb2193ecf00c",
+    "url": "/react-portfolio/static/js/2.dfd97298.chunk.js"
   },
   {
     "revision": "1e9ef656a6bb00dcd81f0d706abc86ea",
     "url": "/react-portfolio/static/media/sprite.1e9ef656.svg"
+  },
+  {
+    "revision": "70421dfc05564aacd318b853555c10c5",
+    "url": "/react-portfolio/static/media/NoweCV-final.70421dfc.pdf"
+  },
+  {
+    "revision": "622c03a740ec23c401b0f9bb846fb349",
+    "url": "/react-portfolio/static/media/NewCV-final.622c03a7.pdf"
   },
   {
     "revision": "4be3c74580ac6377fcb79083a3e2111e",
@@ -40,16 +48,16 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/logo-white-small.9ddb9757.svg"
   },
   {
-    "revision": "9b830086bf7660ce1c47174267b4c3be",
-    "url": "/react-portfolio/static/media/natours.9b830086.png"
+    "revision": "0be13cbc94a4face094b",
+    "url": "/react-portfolio/static/js/main.ad8fbe53.chunk.js"
   },
   {
     "revision": "c40b0ee82684dce3fd1a6227fd93a745",
     "url": "/react-portfolio/static/media/trillo.c40b0ee8.png"
   },
   {
-    "revision": "558f3dd6f9617e8ecb46",
-    "url": "/react-portfolio/static/js/main.85b52537.chunk.js"
+    "revision": "1cba6890da728603c3c317dd6ce8f4e0",
+    "url": "/react-portfolio/static/media/nexter.1cba6890.png"
   },
   {
     "revision": "c77deb8415c4388000b507afe27a922f",
@@ -80,19 +88,11 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/Videalty.f2020dbd.png"
   },
   {
-    "revision": "70421dfc05564aacd318b853555c10c5",
-    "url": "/react-portfolio/static/media/NoweCV-final.70421dfc.pdf"
-  },
-  {
-    "revision": "622c03a740ec23c401b0f9bb846fb349",
-    "url": "/react-portfolio/static/media/NewCV-final.622c03a7.pdf"
-  },
-  {
     "revision": "0f97c82ab66df7ae6f1aa65b33ec5644",
     "url": "/react-portfolio/static/media/face.0f97c82a.jpg"
   },
   {
-    "revision": "d41ec95c36a18a4343533017f7d5d796",
+    "revision": "6bc2ac8c64afb691e289f5a6c1a684d6",
     "url": "/react-portfolio/index.html"
   }
 ];
